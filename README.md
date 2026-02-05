@@ -6,17 +6,17 @@ The game features a player character navigating a simple world, interacting with
 
 ---
 
-## 📺 Based on Brackeys Tutorial
+## Based on Brackeys Tutorial
 
 This project was developed by following the Brackeys Unity tutorial:
 
-👉 https://www.youtube.com/watch?v=LOhfqjmasi0&t=2216s
+ https://www.youtube.com/watch?v=LOhfqjmasi0&t=2216s
 
 Thanks to Brackeys for providing clear and beginner-friendly guidance on building RPG style mechanics in Unity.
 
 ---
 
-## 🎮 Game Overview
+## Game Overview
 
 In this RPG Adventure game:
 
